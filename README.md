@@ -55,15 +55,15 @@ Download and organize all necessary ISOs in a single folder (e.g., `CS Software`
 4. Name: `DC1`.
 5. Allocate resources:
 
-   * RAM: **4 GB**
+   * RAM: **2 GB**
    * CPU: **2 Cores**
-   * Disk: **40 GB**
+   * Disk: **50 GB**
    * Network Adapter: **Host-Only**
 6. Mount the **Windows Server 2022 ISO**.
 7. Start installation and complete Windows setup.
 
 📸 **Screenshot:**
-![Windows Server 2022 Setup](https://i.imgur.com/yZKIOyq.png)
+![Windows Server 2022 Setup](https://i.imgur.com/vYNtnSP.png)
 
 ---
 
