@@ -23,7 +23,7 @@ Each section provides installation steps, configurations, and screenshots to gui
 
 ## ⚙️ Step 1: Install Virtualization Platform
 
-1. Download and install **VMware Workstation Pro** (or VirtualBox).
+1. Download and install **VMware Workstation Pro**.
 2. Enable virtualization in your **BIOS/UEFI** settings if not already active.
 3. Confirm that VMware is working properly.
 
