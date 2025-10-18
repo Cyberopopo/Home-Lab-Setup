@@ -81,7 +81,7 @@ Download and organize all necessary ISOs in a single folder (e.g., `CS Software`
 5. Finish setup and start installation.
 
 📸 **Screenshot:**
-![Windows 10 Setup](https://i.imgur.com/Bf1xJl8.png)
+![Windows 10 Setup](https://i.imgur.com/CakFGuj.png)
 
 ---
 
