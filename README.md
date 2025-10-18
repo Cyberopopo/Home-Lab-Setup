@@ -34,7 +34,7 @@ Each section provides installation steps, configurations, and screenshots to gui
 
 ## 🪟 Step 2: Download Operating System ISOs
 
-Download and organize all necessary ISOs in a single folder (e.g., `C:\Lab_ISOs`):
+Download and organize all necessary ISOs in a single folder (e.g., `CS Software`):
 
 * [Windows Server 2022 ISO](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022)
 * [Windows 10 Pro ISO](https://www.microsoft.com/software-download/windows10)
