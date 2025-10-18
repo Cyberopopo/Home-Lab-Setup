@@ -75,7 +75,7 @@ Download and organize all necessary ISOs in a single folder (e.g., `CS Software`
 
    * RAM: **2 GB**
    * CPU: **2 Cores**
-   * Disk: **30 GB**
+   * Disk: **40 GB**
    * Network Adapter: **Host-Only**
 4. Mount the **Windows 10 ISO**.
 5. Finish setup and start installation.
