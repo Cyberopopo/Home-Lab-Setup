@@ -28,7 +28,7 @@ Each section provides installation steps, configurations, and screenshots to gui
 3. Confirm that VMware is working properly.
 
 📸 **Screenshot:**
-![VMware Installed](https://i.imgur.com/zfQGpbK.png)
+![VMware Installed](https://i.imgur.com/yJZboTv.png)
 
 ---
 
