@@ -85,7 +85,7 @@ Download and organize all necessary ISOs in a single folder (e.g., `CS Software`
 
 ---
 
-## 💻 Step 5: Create Windows 11 Client (`Win11-Client1`)
+## 💻 Step 5: Create Windows 11 Client (`Win11-Client2`)
 
 1. Create another VM → Select **Windows 11 Pro (x64)**.
 2. Name: `Win11-Client1`.
