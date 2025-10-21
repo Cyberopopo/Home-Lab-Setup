@@ -93,12 +93,12 @@ Download and organize all necessary ISOs in a single folder (e.g., `CS Software`
 
    * RAM: **4 GB**
    * CPU: **2 Cores**
-   * Disk: **40 GB**
+   * Disk: **55 GB**
    * Network Adapter: **Host-Only**
 4. Mount the **Windows 11 ISO** and install.
 
 📸 **Screenshot:**
-![Windows 11 Setup](https://i.imgur.com/example.png)
+![Windows 11 Setup](https://i.imgur.com/98qDYHo.png)
 
 ---
 
