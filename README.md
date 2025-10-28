@@ -110,12 +110,12 @@ Download and organize all necessary ISOs in a single folder (e.g., `CS Software`
 
    * RAM: **4 GB**
    * CPU: **2 Cores**
-   * Disk: **60 GB**
-   * Network: **Host-Only** or **Bridged** (for easier communication).
+   * Disk: **100 GB**
+   * Network: **Bridged** (for easier communication).
 4. Mount **Ubuntu Server 22.04 ISO** and install.
 
 📸 **Screenshot:**
-![Ubuntu Server Installation](https://i.imgur.com/example.png)
+![Ubuntu Server Installation](https://i.imgur.com/2RGEhV3.png)
 
 ---
 
