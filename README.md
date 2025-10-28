@@ -102,10 +102,10 @@ Download and organize all necessary ISOs in a single folder (e.g., `CS Software`
 
 ---
 
-## 🧱 Step 6: Create Ubuntu Server for Wazuh
+## 🧱 Step 6: Create Ubuntu Server for Splunk Enterprise
 
 1. Create a new VM → Select **Linux / Ubuntu 64-bit**.
-2. Name: `Wazuh-Server`.
+2. Name: `Ubuntu Server`.
 3. Allocate:
 
    * RAM: **4 GB**
