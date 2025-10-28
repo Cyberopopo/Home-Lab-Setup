@@ -14,7 +14,7 @@ Each section provides installation steps, configurations, and screenshots to gui
 | `DC1`           | Domain Controller          | Windows Server 2022 |
 | `Win10-Client1` | Domain User Workstation    | Windows 10 Pro      |
 | `Win11-Client1` | Domain User Workstation    | Windows 11 Pro      |
-| `Wazuh-Server`  | SIEM & Endpoint Monitoring | Ubuntu Server 22.04 |
+| `Splunk-Enterprise`  | SIEM & Endpoint Monitoring | Ubuntu Server 22.04 |
 | `Kali-Linux`    | Attacker Machine           | Kali Linux 2024.x   |
 
 📍 *All machines are hosted locally using VMware Workstation Pro.*
